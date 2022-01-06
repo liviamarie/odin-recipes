@@ -1,17 +1,15 @@
-/* whole document */
-
 * {
     background-color: #f7d1cd;
 }
 
-h1.index, h1.fettuccine, h1.corn, h1.stroganoff {
+h1.index, h1.recipes {
     color: #735d78;
     text-align: center;
     font-family: arial, sans-serif;
     font-size: 60px;
 }
 
-img.index, img.fettuccine, img.corn, img.stroganoff {
+img.index, img.recipes {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -24,8 +22,6 @@ a.link {
     display: block;
     text-align: center;
 }
-
-/* index.html */
 
 h3.index {
     color: #735d78;
@@ -40,33 +36,31 @@ ul.index {
     padding: 20px;
 }
 
-div.index {
+div.recipes {
     text-align: center;
 }
 
-/* fettuccine.html */
-
-h2.fettuccine {
+h2.recipes {
     text-align: center;
     text-decoration: underline solid #735d78;
     color: #735d78;
     font-family: Arial, sans-serif;
 }
  
-p.fettuccine {
+p.recipes {
     text-align: center;
     color: #735d78;
     font-family: Arial, sans-serif;
 }
 
-h3.fettuccine {
+h3.recipes {
     text-align: center;
     text-decoration: underline solid #735d78;
     color: #735d78;
     font-family: Arial, sans-serif;
 }
 
-ul.fettuccine {
+ul.recipes {
     display: inline-block;
     list-style-type: none;
     border: 5px solid #735d78;
@@ -74,98 +68,10 @@ ul.fettuccine {
     color: #735d78;
 }
 
-ol.fettuccine {
+ol.recipes {
     display: inline-block;
     border: 5px solid #735d78;
     padding: 20px;
     color: #735d78;
     text-align: left;
-}
-
-div.fettuccine {
-    text-align: center;
-}
-
-/* corn-bacon */
-
-h2.corn {
-    text-align: center;
-    text-decoration: underline solid #735d78;
-    color: #735d78;
-    font-family: Arial, sans-serif;
-}
- 
-p.corn {
-    text-align: center;
-    color: #735d78;
-    font-family: Arial, sans-serif;
-}
-
-h3.corn {
-    text-align: center;
-    text-decoration: underline solid #735d78;
-    color: #735d78;
-    font-family: Arial, sans-serif;
-}
-
-ul.corn {
-    display: inline-block;
-    list-style-type: none;
-    border: 5px solid #735d78;
-    padding: 20px;
-    color: #735d78;
-}
-
-ol.corn {
-    display: inline-block;
-    border: 5px solid #735d78;
-    padding: 20px;
-    color: #735d78;
-    text-align: left;
-}
-
-div.corn {
-    text-align: center;
-}
-
-/* stroganoff */
-
-h2.stroganoff {
-    text-align: center;
-    text-decoration: underline solid #735d78;
-    color: #735d78;
-    font-family: Arial, sans-serif;
-}
- 
-p.stroganoff {
-    text-align: center;
-    color: #735d78;
-    font-family: Arial, sans-serif;
-}
-
-h3.stroganoff {
-    text-align: center;
-    text-decoration: underline solid #735d78;
-    color: #735d78;
-    font-family: Arial, sans-serif;
-}
-
-ul.stroganoff {
-    display: inline-block;
-    list-style-type: none;
-    border: 5px solid #735d78;
-    padding: 20px;
-    color: #735d78;
-}
-
-ol.stroganoff {
-    display: inline-block;
-    border: 5px solid #735d78;
-    padding: 20px;
-    color: #735d78;
-    text-align: left;
-}
-
-div.stroganoff {
-    text-align: center;
 }
