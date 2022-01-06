@@ -127,3 +127,45 @@ ol.corn {
 div.corn {
     text-align: center;
 }
+
+/* stroganoff */
+
+h2.stroganoff {
+    text-align: center;
+    text-decoration: underline solid #735d78;
+    color: #735d78;
+    font-family: Arial, sans-serif;
+}
+ 
+p.stroganoff {
+    text-align: center;
+    color: #735d78;
+    font-family: Arial, sans-serif;
+}
+
+h3.stroganoff {
+    text-align: center;
+    text-decoration: underline solid #735d78;
+    color: #735d78;
+    font-family: Arial, sans-serif;
+}
+
+ul.stroganoff {
+    display: inline-block;
+    list-style-type: none;
+    border: 5px solid #735d78;
+    padding: 20px;
+    color: #735d78;
+}
+
+ol.stroganoff {
+    display: inline-block;
+    border: 5px solid #735d78;
+    padding: 20px;
+    color: #735d78;
+    text-align: left;
+}
+
+div.stroganoff {
+    text-align: center;
+}
