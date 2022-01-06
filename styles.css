@@ -1,0 +1,18 @@
+* {
+    background-color: #f7d1cd;
+}
+
+h1.index {
+    color: #735d78;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img.noodles {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: auto;
+    border: 5px solid #b392ac;
+}
