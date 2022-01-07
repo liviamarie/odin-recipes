@@ -2,11 +2,16 @@
     background-color: #f7d1cd;
 }
 
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
 h1.index, h1.recipes {
     color: #735d78;
     text-align: center;
     font-family: arial, sans-serif;
-    font-size: 60px;
+    font-size: 50px;
 }
 
 img.index, img.recipes {
